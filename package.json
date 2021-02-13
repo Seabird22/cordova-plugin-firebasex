@@ -40,5 +40,8 @@
     "semver": "^7.3.2",
     "xcode": "^3.0.1",
     "xml-js": "^1.6.11"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
