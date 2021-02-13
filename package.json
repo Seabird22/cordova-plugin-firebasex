@@ -12,7 +12,7 @@
     "url": "https://github.com/seabird22/cordova-plugin-firebase"
   },
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "@seabird22/cordova-plugin-firebase",
     "platforms": [
       "android",
       "ios"
