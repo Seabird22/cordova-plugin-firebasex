@@ -1,5 +1,5 @@
 {
-  "name": "@seabird/cordova-plugin-firebasex",
+  "name": "@seabird22/cordova-plugin-firebasex",
   "version": "11.0.3",
   "description": "Cordova plugin for Google Firebase",
   "types": "./types/index.d.ts",
