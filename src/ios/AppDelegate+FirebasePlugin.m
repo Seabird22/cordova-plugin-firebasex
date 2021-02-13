@@ -325,6 +325,7 @@ didDisconnectWithUser:(GIDGoogleUser *)user
                                        , nil];
                 NSMutableDictionary* aps = [[NSMutableDictionary alloc] initWithObjectsAndKeys:
                                      alert, @"alert",
+                                     messageData, @"data"
                                      nil];
                 
                 if(![sound isKindOfClass:[NSString class]] || [sound isEqualToString:@"default"]){
